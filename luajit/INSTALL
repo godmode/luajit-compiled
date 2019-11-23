@@ -1,0 +1,4 @@
+To write lua execute .\luajit\luajit.exe
+To execute a script pass in an argument like .\luajit\luajit.exe c:\luajit\scripts\example.lua
+
+For easier access to execute scripts an alias to Windows
